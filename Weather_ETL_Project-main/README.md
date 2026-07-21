@@ -313,15 +313,12 @@ Through this project I learned:
 
 # 👨‍💻 Author
 
-**Chaitanya Joel Songa**
+**Jafar Sadik Shaik**
 
 Final Year B.Tech Student
 
 Aspiring Data Engineer | Python | SQL | Power BI | MySQL
 
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourprofile
 
 ---
 
